@@ -1,0 +1,30 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: verdana,sans-serif;
+	font-size: 0.8em;
+	color: #000;
+	background-color: #FFF;
+}
+
+.latvia {
+	position: relative;
+	width: 850px;
+	margin: 0 auto;
+	padding: 40px 20px;
+	font-size: 13px;
+}
+
+	.latvia_about {
+		padding: 0 10px 0 40px;
+		margin: 0 0 40px;
+	}
+
+		.latvia_about p {
+  			margin: 0 0 30px;
+  			padding: 0;
+		}
